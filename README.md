@@ -1,2 +1,3 @@
-# content-placeholder
-A content placeholder
+# Content Placeholder
+
+https://danielkim2711.github.io/content-placeholder/
